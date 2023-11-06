@@ -10,6 +10,9 @@
 //   alert("..");
 // }
 
-const resultado = 6 === 5 ? "verdadeiro" : "false";
+let maior = 4;
+let menor = 2;
+
+const resultado = maior <= menor ? "verdadeiro" : "false";
 
 console.log(resultado);
