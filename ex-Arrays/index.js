@@ -10,6 +10,6 @@ function FraseBomDia(pronome, nome, sobrenome) {
 
 const Pronomes = ["Sra.", "Sr.", "Srta."];
 const Nomes = ["Carla", "Paulo", "Eduarda"];
-const Sobrenomes = ["Nascimento", "Passos", "Lorrayne"];
+const Sobrenomes = ["Nascimento", "Passos", "Lorrayn"];
 
 console.log(FraseBomDia(Pronomes, Nomes, Sobrenomes));
