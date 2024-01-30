@@ -1,4 +1,4 @@
-const nome = prompt("Qual o seu nome?");
+const nome = prompt("Olá turista!!, Qual o seu nome?");
 let cidades = "";
 let contagem = 0;
 
